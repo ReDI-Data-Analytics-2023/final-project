@@ -165,3 +165,7 @@ github.ipynb
 # Temp Excel files
 ~*.xlsx
 ~*.xls
+
+# macOS Finder files
+.DS_Store 
+
