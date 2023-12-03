@@ -164,3 +164,4 @@ github.ipynb
 
 # Temp Excel files
 ~*.xlsx
+~*.xls
