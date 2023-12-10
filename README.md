@@ -29,6 +29,13 @@ We used a comprehensive dataset collected from [provide link or description of t
 
 Before analysis, we performed necessary preprocessing steps, including cleaning the data, handling missing values, and converting text data into a suitable format for analysis.
 
+### Members
+ - Giorgia Faedda
+ - Hoda Nseif
+ - Andrea Herrera
+ - Raghad Al Shalati
+ - Umida Rahmanova
+
 ## Acknowledgments
 
 We would like to thank [acknowledge any external resources, libraries, or tools used in the project].
