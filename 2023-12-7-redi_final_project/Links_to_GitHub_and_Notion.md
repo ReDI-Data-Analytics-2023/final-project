@@ -1,2 +1,2 @@
-GitHub repository: <https://github.com/ReDI-Data-Analytics-2023/final-project>
-Notion.so (Kanban): <https://www.notion.so/invite/7b25098dd60a7fa521bf5420833567b4329549b6>
+ - GitHub repository: <https://github.com/ReDI-Data-Analytics-2023/final-project>
+ - Notion.so (Kanban & Project Management): <https://www.notion.so/invite/7b25098dd60a7fa521bf5420833567b4329549b6>
