@@ -8,6 +8,10 @@ This GitHub repository contains the code and documentation for a comprehensive a
 
 Our analysis delves into a diverse dataset encompassing multiple social media platforms and people's feelings. Leveraging advanced techniques such as data preprocessing, correlation assessments and statistical analysis, we aim to extract valuable insights and predict possible mental issues
 
+## Research question
+
+How does the use of social media affect individuals' mental health, including factors such as self-esteem, anxiety, and depression?
+
 ### Key Features
 
 - **Correlation Analysis**: Explore and quantify relationships between variables, uncovering connections between social media habits, demographics, and mental health indicators.
