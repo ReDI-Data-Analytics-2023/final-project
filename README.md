@@ -83,7 +83,6 @@ Before analysis, we performed necessary preprocessing steps, including cleaning 
     3. **03-Visualisations**: Hosts notebooks focused on creating visual representations of the data. This folder includes charts, pies, and other visualizations to enhance the understanding of patterns and trends identified during the analysis phase. It contains a complete notebook with all visualisations and individual notebooks with each member's contribution.
     4. **Datasets**: Holds the raw and processed datasets used in the analysis. It ensures transparency and allows others to replicate or extend the study using the same data.
     5. **github_updater.ipynb**: A Jupyter Notebook script that automates the process of updating the GitHub repository with new files, changes, or additional content, streamlining version control.
-    6. **Links_to_GitHub_and_Notion**: Contains references and links to relevant resources on GitHub and Notion, providing additional documentation, project details, or external references for collaborators and contributors.
 
 ### Members
 
